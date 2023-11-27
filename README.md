@@ -1,6 +1,6 @@
 # UIR-KG
 This is the code for the paper:
->Zhipeng Zhang, Yuhang Zhang, Anqi Wang, Pinglei Zhou, Yao Zhang, and Yonggong Ren(2023). User-Oriented Interest Representation on Knowledge Graph for Long-Tail Recommendation. In: Yang, X., et al. Advanced Data Mining and Applications. ADMA 2023. Lecture Notes in Computer Science(), vol 14179. Springer, Cham. https://doi.org/10.1007/978-3-031-46674-8_24
+>Zhipeng Zhang, Yuhang Zhang, Anqi Wang, Pinglei Zhou, Yao Zhang, Yonggong Ren. User-oriented interest representation on knowledge graph for long-tail recommendation[C]. Proceedings of the 19th International Conference on Advanced Data Mining and Applications(ADMA), pp.340-355, Shenyang, China, August 21-23, 2023. https://doi.org/10.1007/978-3-031-46674-8_24
 
 
 ## Introduction
@@ -14,10 +14,10 @@ If you want to use codes and datasets in your research, please contact the paper
                Anqi Wang and
                Pinglei Zhou and
                Yao Zhang and
-               Yonggong Ren,
+               Yonggong Ren
   title     = {User-Oriented Interest Representation on Knowledge Graph for Long-Tail Recommendation},
   booktitle = {{ADMA2023}},
-  pages     = {340–-355},
+  pages     = {340-355},
   year      = {2023}
 }
 ```
