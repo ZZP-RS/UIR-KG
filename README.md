@@ -35,6 +35,11 @@ The code has been tested running under Python 3.7.10. The required packages are 
 ```
 
 ## Run the Codes
+1. run selector.py to generate Long-tail Neighbors
+```
+python Neighbor_selector.py
+```
+2. start UIR-KG
 ```
 python main_UIR-KG.py
 ```
