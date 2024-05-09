@@ -46,14 +46,14 @@ python main_UIR-KG.py
 
 
 ## datasets
-We provided two datasets to validate UIR-KG: last-fm and ml-1m, the former obtained from KGAT, and the latter is a version released by Movielens-1m. The following table shows the information of two datasets:
+We provided two datasets to validate UIR-KG: last-fm and Amazon-book, they are obtained from KGAT. The following table shows the information of two datasets:
 
-|                | Last-FM |  ml-1m  |
+|                | Last-FM |  Amazon-book  |
 | :------------: | :-----: | :-----: |
-|    n_users     |  23566  |  6040   |
-|    n_items     |  48123  |  3655   |
-| n_interactions | 3034796 | 997579  |
-|   n_entities   | 58266  | 398505  |
-|  n_relations   |    9    |   57    |
-|   n_triples    | 464567  | 3396595 |
+|    n_users     |  23566  |  70,679   |
+|    n_items     |  48123  |  24,915   |
+| n_interactions | 3034796 | 847,733  |
+|   n_entities   | 58266  | 88,572  |
+|  n_relations   |    9    |   39    |
+|   n_triples    | 464567  | 2,557,746 |
 
