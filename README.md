@@ -53,7 +53,7 @@ We provided two datasets to validate UIR-KG: last-fm and ml-1m, the former obtai
 |    n_users     |  23566  |  6040   |
 |    n_items     |  48123  |  3655   |
 | n_interactions | 3034796 | 997579  |
-|   n_entities   | 106389  | 398505  |
+|   n_entities   | 58266  | 398505  |
 |  n_relations   |    9    |   57    |
 |   n_triples    | 464567  | 3396595 |
 
