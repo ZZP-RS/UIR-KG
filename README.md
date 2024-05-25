@@ -1,26 +1,6 @@
-# UIR-KG
+## Introduction
 This is the code for the paper:
 >Zhipeng Zhang, Yuhang Zhang, Anqi Wang, Pinglei Zhou, Yao Zhang, Yonggong Ren. User-oriented interest representation on knowledge graph for long-tail recommendation[C]. Proceedings of the 19th International Conference on Advanced Data Mining and Applications(ADMA), pp.340-355, Shenyang, China, August 21-23, 2023. https://doi.org/10.1007/978-3-031-46674-8_24
-
-
-## Introduction
-UIR-KG is a new neural network recommendation model that utilizes rich semantic information on the knowledge graph to learn users' long tail interest representations. UIR-KG maximizes the recommendation of long tail projects while meeting the mainstream interests of users as much as possible.
-
-If you want to use codes and datasets in your research, please contact the paper authors and cite the following paper as the reference:
-```
-@inproceedings{UIR-KG,
-  author    = {Zhipeng Zhang and
-               Yuhang Zhang and
-               Anqi Wang and
-               Pinglei Zhou and
-               Yao Zhang and
-               Yonggong Ren
-  title     = {User-Oriented Interest Representation on Knowledge Graph for Long-Tail Recommendation},
-  booktitle = {{ADMA2023}},
-  pages     = {340-355},
-  year      = {2023}
-}
-```
 
 
 ## Environment Requirement
