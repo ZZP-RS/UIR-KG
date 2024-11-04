@@ -1,8 +1,3 @@
-## Introduction
-This is the code for the paper:
->Zhipeng Zhang, Yuhang Zhang, Anqi Wang, Pinglei Zhou, Yao Zhang, Yonggong Ren. User-oriented interest representation on knowledge graph for long-tail recommendation[C]. Proceedings of the 19th International Conference on Advanced Data Mining and Applications(ADMA), pp.340-355, Shenyang, China, August 21-23, 2023. https://doi.org/10.1007/978-3-031-46674-8_24
-
-
 ## Environment Requirement
 ```
 The code has been tested running under Python 3.7.10. The required packages are as follows:
